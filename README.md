@@ -28,7 +28,7 @@ Application created on the basis of the course: https://guides.rubyonrails.org/g
 ![image](https://github.com/bszarlowicz/RailsBasics/assets/127704473/0573f758-2ed8-4316-8b9a-02701c986a62)
 ![image](https://github.com/bszarlowicz/RailsBasics/assets/127704473/147ed3fd-c5c9-454a-b095-576732770f88)
 
-6. Adding articles and deleting comments is provided with the HTTP authentication system
+6. The management of articles and comments is protected by the HTTP authentication system
 
 ![image](https://github.com/bszarlowicz/RailsBasics/assets/127704473/5a6c18ee-0143-49b0-8479-a0ab22218176)
 ![image](https://github.com/bszarlowicz/RailsBasics/assets/127704473/472b15f1-52ba-4cd6-942b-3a56a6ccf377)
